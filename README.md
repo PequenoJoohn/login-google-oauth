@@ -35,19 +35,9 @@ $ yarn or npm install
 $ yarn css //Run to scss compiler, generate css folder
 ```
 
-
-
-
-
 Após estes passos, abra o index.html no seu navegador.
 
 #### Have for fun :)
-
-<!-- <h1 align="center">
-<img src="https://raw.githubusercontent.com/OldModz95-YTB/OldModz95-YTB/main/hi.gif" height="32" />
-OldModz95
-<img src="https://raw.githubusercontent.com/OldModz95-YTB/OldModz95-YTB/main/hi.gif" height="32" />
-</h1> -->
 
 <br>
 <br>

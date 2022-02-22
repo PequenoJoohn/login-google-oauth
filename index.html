@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Google Login Oauth</title>
+    
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="shortcut icon" href="assets/icon.png" type="image/x-icon">
+
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <script src="https://unpkg.com/jwt-decode/build/jwt-decode.js"></script>
+
+</head>
+
+<body>
+    <section>
+        <p id="fullName"></p>
+        <p id="sub"></p>
+        <p id="given_name"></p>
+        <p id="family_name"></p>
+        <p id="email"></p>
+        <p id="verifiedEmail"></p>
+        <img id="picture" />
+    </section>
+
+    <section class="section">
+        <form>
+            <img src="assets/icon.png" alt="">
+            <h2>Login</h2>
+            <label for="email">E-mail*</label>
+            <input type="email" name="email" placeholder="Digite seu E-mail" required>
+            <label for="senha">Senha*</label>
+            <input type="password" placeholder="Digite sua senha" required>
+            <button>Entrar</button>
+
+            <a href="/">
+                <p>Esqueci minha senha</p>
+            </a>
+
+            <div id="buttonDiv"></div> 
+        </form>
+    </section>
+
+    <script src="javascript/google.js"></script>
+</body>
+
+</html>

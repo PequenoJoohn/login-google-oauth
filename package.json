@@ -1,0 +1,12 @@
+{
+  "name": "oauth-google",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "css": "sass --watch scss/styles.scss css/styles.css"
+  },
+  "dependencies": {
+    "sass": "^1.49.8"
+  }
+}

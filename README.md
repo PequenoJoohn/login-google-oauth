@@ -3,7 +3,7 @@
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-Esse foi um desafio proposto pela comunidade de programação __[Lab Zone](www.labzone.com.br)__, onde o projeto consistia em criar uma tela de login simples, porém contendo como obrigatoriedade consumir a api do [Google Oauth](https://developers.google.com/identity/gsi/web/guides/overview). 
+Esse foi um desafio proposto pela comunidade de programação __[Lab Zone](https://www.labzone.com.br)__, onde o projeto consistia em criar uma tela de login simples, porém contendo como obrigatoriedade consumir a api do [Google Oauth](https://developers.google.com/identity/gsi/web/guides/overview). 
 
 ![image](./assets/screen.png)
 
